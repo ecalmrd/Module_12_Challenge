@@ -13,6 +13,7 @@ You will be able to add a department, add a role that will allow you to set a sa
 
 ## Installation
 Open VS Code and in the terminal, run node index to start the application and choose an option or fill out your answer in each prompt.
+![Employee_Tracker ss](https://user-images.githubusercontent.com/110567243/225819699-93282f7a-9664-4b88-9e92-46095109beca.PNG)
 
 ## Questions
 Have questions about this project?  
@@ -20,4 +21,4 @@ Email: ecalmrd@gmail.com
 GitHub: https://github.com/ecalmrd
 
 
-![Employee_Tracker ss](https://user-images.githubusercontent.com/110567243/225819699-93282f7a-9664-4b88-9e92-46095109beca.PNG)
+
